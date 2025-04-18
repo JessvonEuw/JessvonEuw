@@ -18,6 +18,8 @@ I'm a passionate developer with expertise in modern web technologies. I love bui
 
 ## 🔭 Current Focus
 
+[Recent Project | Event Planner](https://github.com/JessvonEuw/event-planner)
+
 - Building modern web applications with React and Next.js
 - Creating responsive and accessible user interfaces
 - Implementing TypeScript for robust type safety
@@ -37,7 +39,7 @@ I'm a passionate developer with expertise in modern web technologies. I love bui
 
 ## ⚡ Fun Fact
 
-I love to bake (especially cookies). I played the sport of Quidditch (yes, from Harry Potter), I love to run and I am currently learning Brazillian Jiu Jitsu!
+I love to bake (especially cookies). I played the sport of Quidditch (yes, from Harry Potter), love to run, and am currently learning Brazillian Jiu Jitsu!
 
 <!--
 **JessvonEuw/JessvonEuw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
